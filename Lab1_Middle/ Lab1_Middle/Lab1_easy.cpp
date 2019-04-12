@@ -1,4 +1,4 @@
-﻿#include "pch.h"
+﻿#include "pch.h"|
 #include <iostream>
 #include <string>
 
@@ -41,12 +41,7 @@ int main()
 		}
 
 	}
-
-
-
-
-
-
+	
 }
 
 
